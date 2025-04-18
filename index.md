@@ -18,7 +18,7 @@ article_header:
   actions:
     - text: September 15 or 16 (to be announced), 2025 | Rome, Italy 
   background_image:
-    src: /assets/images/insait_banner.png
+    src: /assets/images/INSAIT_banner.png
     gradient: 'linear-gradient(135deg, rgb(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4))'
 ---
 
