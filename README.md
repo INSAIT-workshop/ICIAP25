@@ -1,5 +1,5 @@
 
-# Learn-to-Race Workshop Website
+# INSAIT Workshop Website
 
 
 ## About
