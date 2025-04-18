@@ -500,8 +500,8 @@ To be announced.
 ## Organized by
 
 <div class="organizers-logos">
-    <img style="height: 75px; margin: 0 10px;" src="{{ site.baseurl }}/assets/images/sponsors/unito_logo.png" alt="UNITO Logo">
-    <img style="height: 75px; margin: 0 10px;" src="{{ site.baseurl }}/assets/images/sponsors/polito_logo.png" alt="POLITO Logo">
-    <img style="height: 75px; margin: 0 10px;" src="{{ site.baseurl }}/assets/images/sponsors/unipi_logo.png" alt="UNIPI Logo">
-    <img style="height: 75px; margin: 0 10px;" src="{{ site.baseurl }}/assets/images/sponsors/centai_logo.png" alt="CentAI Logo">
+    <img style="height: 75px; margin: 10px 10px;" src="{{ site.baseurl }}/assets/images/sponsors/unito_logo.png" alt="UNITO Logo">
+    <img style="height: 75px; margin: 10px 10px;" src="{{ site.baseurl }}/assets/images/sponsors/polito_logo.png" alt="POLITO Logo">
+    <img style="height: 75px; margin: 10px 10px;" src="{{ site.baseurl }}/assets/images/sponsors/unipi_logo.png" alt="UNIPI Logo">
+    <img style="height: 75px; margin: 10px 10px;" src="{{ site.baseurl }}/assets/images/sponsors/centai_logo.png" alt="CentAI Logo">
 </div>
