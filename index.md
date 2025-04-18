@@ -103,7 +103,12 @@ article_header:
 ul.menu li::after {
     color: white;
     /*text-shadow: -20px -8px 17px rgb(0 0 0 / 90%);*/
+    padding-left:0;
     content:"September 15 or 16 (to be announced), 2025 | Rome, Italy";
+}
+
+ul.menu {
+    padding-left:0;
 }
 
 ul.menu a {
@@ -230,6 +235,10 @@ table {
             font-weight: bold;
             text-align: center;
         }
+
+.main > ul {
+  padding-left:0
+}
   
 </style>
 
