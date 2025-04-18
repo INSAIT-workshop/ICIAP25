@@ -86,6 +86,13 @@ article_header:
     word-wrap: break-word;
 }
 
+/* Styles for mobile devices */
+@media (max-width: 768px) { /* Adjust the max-width as needed */
+    .article__header h1 {
+        font-size: 1.5em; /* Smaller font size for mobile */
+    }
+}
+
 .overlay__excerpt {
     margin: 20px 0 0 0;
     font-family: sans-serif;
