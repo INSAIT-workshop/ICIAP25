@@ -343,9 +343,9 @@ Please submit your papers in PDF format through Openreview (link coming soon).
 
 ## Important Dates
 
-Submission deadline - June 7 (23:59 AoE), 2025 \
-Author notification - July 01 (23:59 AoE), 2025 \
-Camera ready deadline -  July 10 (23:59 AoE), 2025 
+Submission deadline - June 7, 2025 \
+Author notification - July 01, 2025 \
+Camera ready deadline -  July 10, 2025 
 
 Note: all deadlines are in <b>Anywhere on Earth (AoE)</b>.
 
