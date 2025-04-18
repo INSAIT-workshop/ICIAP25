@@ -18,7 +18,7 @@ article_header:
   actions:
     - text: September 15 or 16 (to be announced), 2025 | Rome, Italy 
   background_image:
-    src: /assets/images/insait_banner.png
+    src: ./assets/images/insait_banner.png
     gradient: 'linear-gradient(135deg, rgb(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4))'
 ---
 
@@ -452,7 +452,7 @@ To be announced.
     </div>
     <div style="display:inline-block; width:150px; line-height:1.4; color:black;">
       <p style="margin:0 0 0 10px;">Alan Perotti</p>
-      <p style="margin:0 0 0 10px; font-size:10px;">Senior researcher at CentAI, his interests lie in representation learning, interpretability, industry applications</p>
+      <p style="margin:0 0 0 10px; font-size:10px;">Senior researcher at CentAI, his interests lie in representation learning, interpretability, industry</p>
     </div>
   </div>
 </a>
