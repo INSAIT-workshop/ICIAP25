@@ -1,0 +1,141 @@
+
+challenge-nav:
+  - title:      Overview
+    children:
+      - title:  Overview
+        url:    /challenge.html#challenge-overview
+      - title: Getting Started
+        url:    /challenge.html#getting-started
+  - title:      Environment
+    children:
+      - title:  Action Space
+        url:    /challenge.html#action-space
+      - title:  Observation Space
+        url:    /challenge.html#observation-space
+      - title:  Runtime Environment
+        url:    /challenge.html#runtime-environment
+      - title:  File Structure
+        url:    /challenge.html#file-structure
+  - title:      Evaluation
+    children:
+      - title:  Rules
+        url:    /challenge.html#rules
+      - title:  Competition Stages
+        url:    /challenge.html#competition-stages
+      - title:  Metrics
+        url:    /challenge.html#metrics
+
+header:
+#  - titles:
+#      # @start locale config
+#      en      : &EN       Speakers
+#      en-GB   : *EN
+#      en-US   : *EN
+#      en-CA   : *EN
+#      en-AU   : *EN
+#      # @end locale config
+#    url: /speakers.html
+#
+#  - titles:
+#      # @start locale config
+#      en      : &EN       Schedule
+#      en-GB   : *EN
+#      en-US   : *EN
+#      en-CA   : *EN
+#      en-AU   : *EN
+#      # @end locale config
+#    url: /schedule.html
+#
+#  - titles:
+#      # @start locale config
+#      en      : &EN       Rules
+#      en-GB   : *EN
+#      en-US   : *EN
+#      en-CA   : *EN
+#      en-AU   : *EN
+#      # @end locale config
+#    url: /challenge.html
+
+#  - titles:
+#      # @start locale config
+#      en      : &EN       Leaderboard
+#      en-GB   : *EN
+#      en-US   : *EN
+#      en-CA   : *EN
+#      en-AU   : *EN
+#      # @end locale config
+#    url: /results.html
+#
+
+  - titles:
+      # @start locale config
+      en      : &EN       Calls
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /index.html#call-for-papers
+
+
+  # - titles:
+  #     # @start locale config
+  #     en      : &EN       Accepted Papers
+  #     en-GB   : *EN
+  #     en-US   : *EN
+  #     en-CA   : *EN
+  #     en-AU   : *EN
+  #     # @end locale config
+  #   url: /index.html#accepted-papers
+    
+  - titles:
+      # @start locale config
+      en      : &EN       Schedule
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /index.html#schedule
+
+  - titles:
+      # @start locale config
+      en      : &EN       Speakers
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /index.html#speakers
+
+  - titles:
+      # @start locale config
+      en      : &EN       Organizers
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /index.html#organizers
+
+
+#  - titles:
+#      # @start locale config
+#      en      : &EN       Papers
+#      en-GB   : *EN
+#      en-US   : *EN
+#      en-CA   : *EN
+#      en-AU   : *EN
+#      # @end locale config
+#    url: /papers.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Contact
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /index.html#contact
+

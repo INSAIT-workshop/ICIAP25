@@ -1,0 +1,26 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+{%- include snippets/get-article-title.html article=page -%}
+<title>{%- if __return -%}{{ __return }} - {{ site.title }}{%- else -%}{{ site.title }}{%- endif -%}</title>
+
+<meta name="description" content="{%- if page.excerpt -%}{{ page.excerpt | strip_html | strip_newlines | strip | truncate: 160 }}{%- else -%}{{ site.description }}{%- endif -%}">
+<link rel="canonical" href="{%- include snippets/page-url.html -%}">
+
+{%- assign _paths_rss = site.paths.rss | default: site.data.variables.default.paths.rss -%}
+{%- include snippets/get-nav-url.html path=_paths_rss -%}
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ __return }}">
+
+<!-- <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/iciap_logo.png"><link rel="icon" type="image/png" sizes="32x32" href="/assets/images/iciap_logo.png"><link rel="icon" type="image/png" sizes="16x16" href="/assets/images/iciap_logo.png"><link rel="shortcut icon" href="/assets/images/iciap_logo.png"> -->
+<link rel="icon" href="https://lh6.googleusercontent.com/RVkuc2e5x3VW16-qJDicX1giVULUdJgq_BdSBU8IrPa2KEYxc2Fz7pYbas5uvtMqqxxwNz6hbnVLwZxkuLHu5koLf2rEwaSuoXCP49dNEtFf6_fw">
+<meta name="theme-color" content="#ffffff">
+
+{%- include snippets/prepend-baseurl.html path='/assets/css/main.css' -%}
+<link rel="stylesheet" href="{{ __return }}">
+
+{%- include snippets/get-sources.html -%}
+{%- assign _sources = __return -%}
+<link rel="stylesheet" href="{{ _sources.font_awesome }}" >
+
+{%- include head/custom.html -%}
