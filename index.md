@@ -502,7 +502,7 @@ To be announced.
 
 # Contact information
 
-- Email: INSAIT.workshop [AT] gmail.com
+- Email: insait.workshop [AT] gmail.com
 - X: [@INSAIT_workshop](https://twitter.com/INSAIT_workshop)
 
 
