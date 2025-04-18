@@ -18,7 +18,7 @@ article_header:
   actions:
     - text: September 15 or 16 (to be announced), 2025 | Rome, Italy 
   background_image:
-    src: /assets/images/INSAIT_banner.png
+    src: /assets/images/INSAIT_banner.mp4
     gradient: 'linear-gradient(135deg, rgb(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6))'
 ---
 
@@ -505,3 +505,24 @@ To be announced.
     <img style="height: 75px; margin: 10px 10px;" src="{{ site.baseurl }}/assets/images/sponsors/unipi_logo.png" alt="UNIPI Logo">
     <img style="height: 75px; margin: 10px 10px;" src="{{ site.baseurl }}/assets/images/sponsors/centai_logo.png" alt="CentAI Logo">
 </div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+<script>
+        // Example: Smooth scrolling for navbar links (Optional)
+        document.querySelectorAll('a.nav-link[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const targetId = this.getAttribute('href');
+                const targetElement = document.querySelector(targetId);
+                if(targetElement) {
+                    // Calculate position considering the fixed navbar height
+                    const offsetTop = targetElement.offsetTop - 56; // Adjust 56 if navbar height changes
+                    window.scrollTo({
+                        top: offsetTop,
+                        behavior: 'smooth'
+                    });
+                }
+            });
+        });
+    </script>

@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #   INSAIT: INterpretable Systems for Artificial Intelligence Transparency
 baseurl: "/ICIAP25" # the subpath of your site, e.g. /blog
 url: "https://INSAIT-workshop.github.io/"
-twitter_username: XINSAIT_workshop
+twitter_username: INSAIT_workshop
 github_username: INSAIT-workshop
 
 # Build settings
