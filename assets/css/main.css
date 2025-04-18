@@ -1535,7 +1535,7 @@ a > .item__header.disabled, a > .item__header:disabled, a.item__header.disabled,
 
 .header a.disabled, .header a:disabled { color: rgba(51, 51, 51, 0.2) !important; }
 
-.header .main { display: -webkit-box; display: -webkit-flex; display: -moz-flex; display: -ms-flexbox; display: flex; }
+.header .main { display: -webkit-box; display: -webkit-flex; display: -moz-flex; display: -ms-flexbox; display: flex; align-items: center; justify-content: space-between; height: 50px;}
 
 @media (max-width: 499px) { .header .main { -webkit-box-direction: normal; -webkit-box-orient: vertical; -webkit-flex-direction: column; -moz-flex-direction: column; -ms-flex-direction: column; flex-direction: column; } }
 
