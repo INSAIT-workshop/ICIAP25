@@ -352,9 +352,9 @@ Please submit your papers in PDF format through Openreview (link coming soon).
 
 ## Important Dates
 
-Submission deadline - June 7, 2025 \
-Author notification - July 01, 2025 \
-Camera ready deadline -  July 10, 2025 
+<strong>Submission deadline</strong> - June 7, 2025 \
+<strong>Author notification</strong> - July 01, 2025 \
+<strong>Camera ready deadline</strong> -  July 10, 2025 
 
 Note: all deadlines are in <b>Anywhere on Earth (AoE)</b>.
 
@@ -502,7 +502,7 @@ To be announced.
 
 # Contact information
 
-- Email: insait.workshop [AT] gmail.com
+- Email: insait.workshop[AT]gmail.com
 - X: [@INSAIT_workshop](https://twitter.com/INSAIT_workshop)
 
 
