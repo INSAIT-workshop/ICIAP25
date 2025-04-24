@@ -542,6 +542,7 @@ To be announced.
 
 - Email: insait.workshop[AT]gmail.com
 - X: [@INSAIT_workshop](https://twitter.com/INSAIT_workshop)
+- Instagram: [@INSAIT_workshop](https://www.instagram.com/insait_workshop/)
 
 
 ## Organized by
