@@ -55,7 +55,12 @@ article_header:
 #countdown p {
   margin:0;
   line-height: 1;
+  text-align: center;
 } 
+
+p {
+  text-align: justify;
+}
 
 .schedule-table-heading {
     display: inline;
