@@ -379,7 +379,7 @@ Each accepted paper must be covered by at least one author registration (either 
 
 We suggest workshop papers are prepared and submitted using the official <a href="https://drive.google.com/file/d/1NxtKBIzZARUUNeNuCUNIA6XtQ0RtL1NI/view?usp=sharing">ICIAP template</a> (there is also this <a href="https://www.overleaf.com/read/bpkfqrbhcrcg">Overleaf template</a>).
 
-Please submit your papers in PDF format through Openreview (link coming soon).
+Please submit your papers in PDF format through <a href="https://openreview.net/group?id=ICIAP/2025/Workshop/INSAIT">OpenReview</a>.
 
 ## Important Dates
 
@@ -517,7 +517,7 @@ To be announced.
 <div><strong>Marco Nurisso</strong>, Politecnico di Torino</div>
 <!-- <div><strong>Georgios Leontidis</strong>, University of Aberdeen</div>
 <div><strong>Aiden Durrant</strong>, University of Aberdeen</div> -->
-<div><strong>Sonia Laguna Cillero</strong>, ETH Zurich</div>
+<!-- <div><strong>Sonia Laguna Cillero</strong>, ETH Zurich</div> -->
 <!-- <div><strong>Enzo Tartaglione</strong>, Télécom Paris, Institut Polytechnique de Paris</div>
 <div><strong>Julia Herbinger</strong>, Leibniz Institute for Agricultural Engineering and Bioeconomy</div> -->
 <!-- <div><strong>Lenka Tětková</strong>, University of Denmark</div>
@@ -531,7 +531,7 @@ To be announced.
 .. (to be updated)
 </div>
 
-# Contact information
+# Contact
 
 - Email: insait.workshop[AT]gmail.com
 - X: [@INSAIT_workshop](https://twitter.com/INSAIT_workshop)
