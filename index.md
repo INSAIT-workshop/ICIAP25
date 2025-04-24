@@ -340,6 +340,8 @@ table {
 
 Artificial Intelligence (AI) innovations have led to increasingly complex models, such as foundational and generative multimodal models. They achieve state-of-the-art performance across various domains, however, their black-box nature raises concerns about their trust, accountability, and ethical deployment. The INSAIT Workshop (INterpretable Systems for Artificial Intelligence Transparency) aims to bring together researchers and practitioners to explore interpretability in AI, focusing on methods that enhance transparency, explainability, and human-centric trust. Understanding why AI systems work so well and why they fail is important for their integration into real-world applications used by millions of people.
 
+<strong>We are now accepting self-nominations for reviewers, please complete <a href="https://forms.gle/91XjFrqPJEj1hYiAA">this form</a></strong>.
+
 ## Call for papers
 
 This workshop invites contributions from academia and industry on theoretical and practical topics including, but not limited to:
