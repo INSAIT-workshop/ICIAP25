@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "INSAIT: INterpretable Systems for Artificial Intelligence Transparency"
-excerpt: ICIAP 2025 Workshop
+excerpt: "ICIAP 2025 Workshop"
 menu: true
 show_info: true
 titles:
@@ -16,14 +16,47 @@ article_header:
   theme: dark
   align: left
   actions:
-    - text: September 15 or 16 (to be announced), 2025 | Rome, Italy 
+    - text: "September 15 or 16 (to be announced), 2025 | Rome, Italy"
+    #  class: "text"
+    # - text: "Submit your paper"
+    #   link: "https://openreview.net/group?id=ICIAP/2025/Workshop/INSAIT"
+    #   class: "btn btn-primary btn-m mt-3"
   background_image:
-    src: /assets/images/INSAIT_banner.mp4
+    src: /assets/images/INSAIT_banner.gif
     gradient: 'linear-gradient(135deg, rgb(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6))'
 ---
 
+<div style="text-align: center; margin-top: 20px">
+  <a href="https://openreview.net/group?id=ICIAP/2025/Workshop/INSAIT" class="button button--info button--rounded">Submit your paper</a>
+  <div id="countdown" class="tags"></div>
+</div>
+
+<script>
+  // AoE (UTC-12) for June 7, 2025, 23:59:59
+  const countdownDate = new Date(Date.UTC(2025, 5, 8, 11, 59, 59)).getTime(); 
+  const countdownInterval = setInterval(function () {
+  const now = new Date().getTime();
+  const distance = countdownDate - now;
+  const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    document.getElementById("countdown").innerHTML = `
+    <p><br><i class="fas fa-hourglass-half"></i> Countdown to Submission deadline: <strong>${days}d ${hours}h ${minutes}m </strong></p>
+    `;
+  if (distance < 0) {
+      clearInterval(countdownInterval);
+      document.getElementById("countdown").innerHTML = "<p>Submission closed!</p>";
+    }
+  }, 1000);
+</script>
+
 <style>
   
+#countdown p {
+  margin:0;
+  line-height: 1;
+} 
+
 .schedule-table-heading {
     display: inline;
     font-weight: bold;
@@ -303,8 +336,6 @@ table {
   }, 1000);
 </script> -->
 
-<br>
-
 ## About
 
 Artificial Intelligence (AI) innovations have led to increasingly complex models, such as foundational and generative multimodal models. They achieve state-of-the-art performance across various domains, however, their black-box nature raises concerns about their trust, accountability, and ethical deployment. The INSAIT Workshop (INterpretable Systems for Artificial Intelligence Transparency) aims to bring together researchers and practitioners to explore interpretability in AI, focusing on methods that enhance transparency, explainability, and human-centric trust. Understanding why AI systems work so well and why they fail is important for their integration into real-world applications used by millions of people.
@@ -481,22 +512,22 @@ To be announced.
 <div id="all-reviewers-list" style="display: block;">
 <div><strong>Marco Grangetto</strong>, University of Turin</div>
 <div><strong>Enrico Cassano</strong>, University of Turin</div>
-<div><strong>Elvio Amparore</strong>, University of Turin</div>
-<div><strong>Muhammad Rashid</strong>, University of Turin</div>
+<!-- <div><strong>Elvio Amparore</strong>, University of Turin</div>
+<div><strong>Muhammad Rashid</strong>, University of Turin</div> -->
 <div><strong>Marco Nurisso</strong>, Politecnico di Torino</div>
-<div><strong>Georgios Leontidis</strong>, University of Aberdeen</div>
-<div><strong>Aiden Durrant</strong>, University of Aberdeen</div>
+<!-- <div><strong>Georgios Leontidis</strong>, University of Aberdeen</div>
+<div><strong>Aiden Durrant</strong>, University of Aberdeen</div> -->
 <div><strong>Sonia Laguna Cillero</strong>, ETH Zurich</div>
-<div><strong>Enzo Tartaglione</strong>, Télécom Paris, Institut Polytechnique de Paris</div>
-<div><strong>Julia Herbinger</strong>, Leibniz Institute for Agricultural Engineering and Bioeconomy</div>
-<div><strong>Lenka Tětková</strong>, University of Denmark</div>
+<!-- <div><strong>Enzo Tartaglione</strong>, Télécom Paris, Institut Polytechnique de Paris</div>
+<div><strong>Julia Herbinger</strong>, Leibniz Institute for Agricultural Engineering and Bioeconomy</div> -->
+<!-- <div><strong>Lenka Tětková</strong>, University of Denmark</div>
 <div><strong>Arianna Casanova Flores</strong>, Universität Liechtenstein</div>
 <div><strong>Maximilian Dreyer</strong>, Fraunhofer Heinrich Hertz Institute</div>
 <div><strong>Eliana Pastor</strong>, Politecnico di Torino</div>
 <div><strong>Salvatore Greco</strong>, Politecnico di Torino</div>
 <div><strong>Lia Morra</strong>, Politecnico di Torino</div>
 <div><strong>Valentina Ghidini</strong>, Duferco</div>
-<div><strong>Giulia Vilone</strong>, Analog Devices</div>
+<div><strong>Giulia Vilone</strong>, Analog Devices</div> -->
 .. (to be updated)
 </div>
 
