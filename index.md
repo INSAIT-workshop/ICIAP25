@@ -519,11 +519,11 @@ To be announced.
 <div id="all-reviewers-list" style="display: block;">
 <div><strong>Marco Grangetto</strong>, University of Turin</div>
 <div><strong>Enrico Cassano</strong>, University of Turin</div>
-<!-- <div><strong>Elvio Amparore</strong>, University of Turin</div>
-<div><strong>Muhammad Rashid</strong>, University of Turin</div> -->
+<!-- <div><strong>Elvio Amparore</strong>, University of Turin</div> -->
+<div><strong>Muhammad Rashid</strong>, University of Turin</div>
 <div><strong>Marco Nurisso</strong>, Politecnico di Torino</div>
-<!-- <div><strong>Georgios Leontidis</strong>, University of Aberdeen</div>
-<div><strong>Aiden Durrant</strong>, University of Aberdeen</div> -->
+<div><strong>Georgios Leontidis</strong>, University of Aberdeen</div>
+<!-- <div><strong>Aiden Durrant</strong>, University of Aberdeen</div> -->
 <div><strong>Sonia Laguna Cillero</strong>, ETH Zurich</div>
 <!-- <div><strong>Enzo Tartaglione</strong>, Télécom Paris, Institut Polytechnique de Paris</div>
 <div><strong>Julia Herbinger</strong>, Leibniz Institute for Agricultural Engineering and Bioeconomy</div> -->
@@ -531,7 +531,7 @@ To be announced.
 <!-- <div><strong>Arianna Casanova Flores</strong>, Universität Liechtenstein</div> -->
 <!-- <div><strong>Maximilian Dreyer</strong>, Fraunhofer Heinrich Hertz Institute</div> -->
 <div><strong>Eliana Pastor</strong>, Politecnico di Torino</div>
-<!-- <div><strong>Salvatore Greco</strong>, Politecnico di Torino</div> -->
+<div><strong>Salvatore Greco</strong>, Politecnico di Torino</div> 
 <div><strong>Lia Morra</strong>, Politecnico di Torino</div>
 <!-- <div><strong>Valentina Ghidini</strong>, Duferco</div> -->
 <div><strong>Giulia Vilone</strong>, Analog Devices</div>
