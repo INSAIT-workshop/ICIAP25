@@ -523,7 +523,7 @@ To be announced.
 <div><strong>Muhammad Rashid</strong>, University of Turin</div>
 <div><strong>Marco Nurisso</strong>, Politecnico di Torino</div>
 <div><strong>Georgios Leontidis</strong>, University of Aberdeen</div>
-<!-- <div><strong>Aiden Durrant</strong>, University of Aberdeen</div> -->
+<div><strong>Aiden Durrant</strong>, University of Aberdeen</div>
 <div><strong>Sonia Laguna Cillero</strong>, ETH Zurich</div>
 <!-- <div><strong>Enzo Tartaglione</strong>, Télécom Paris, Institut Polytechnique de Paris</div>
 <div><strong>Julia Herbinger</strong>, Leibniz Institute for Agricultural Engineering and Bioeconomy</div> -->
@@ -555,6 +555,16 @@ To be announced.
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7WQKLYRD93"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7WQKLYRD93');
+</script>
 
 <script>
         // Example: Smooth scrolling for navbar links (Optional)
