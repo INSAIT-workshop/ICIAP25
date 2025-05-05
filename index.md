@@ -424,7 +424,7 @@ To be announced.
     </div>
     <div style="display:inline-block; width:150px; line-height:1.4; color:black;">
       <p style="margin:0 0 0 10px;">Stephan Alaniz</p>
-      <p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor<br>Explainable AI</p>
+      <p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor, Télécom Paris, Institut Polytechnique de Paris<br>Explainable AI</p>
     </div>
   </div>
 </a>
