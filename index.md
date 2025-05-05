@@ -543,6 +543,7 @@ To be announced.
 - Email: insait.workshop@gmail.com
 - X: [@INSAIT_workshop](https://twitter.com/INSAIT_workshop)
 - Instagram: [@INSAIT_workshop](https://www.instagram.com/insait_workshop/)
+- Bluesky: [@insaitworkshop.bsky.social](https://bsky.app/profile/insaitworkshop.bsky.social)
 
 
 ## Organized by
