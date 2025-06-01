@@ -524,9 +524,9 @@ To be announced.
 <div><strong>Marco Nurisso</strong>, Politecnico di Torino</div>
 <div><strong>Georgios Leontidis</strong>, University of Aberdeen</div>
 <div><strong>Aiden Durrant</strong>, University of Aberdeen</div>
-<div><strong>Sonia Laguna Cillero</strong>, ETH Zurich</div>
-<!-- <div><strong>Enzo Tartaglione</strong>, Télécom Paris, Institut Polytechnique de Paris</div>
-<div><strong>Julia Herbinger</strong>, Leibniz Institute for Agricultural Engineering and Bioeconomy</div> -->
+<!-- <div><strong>Sonia Laguna Cillero</strong>, ETH Zurich</div> -->
+<!-- <div><strong>Enzo Tartaglione</strong>, Télécom Paris, Institut Polytechnique de Paris</div> -->
+<!-- <div><strong>Julia Herbinger</strong>, Leibniz Institute for Agricultural Engineering and Bioeconomy</div> -->
 <!-- <div><strong>Lenka Tětková</strong>, University of Denmark</div>  -->
 <!-- <div><strong>Arianna Casanova Flores</strong>, Universität Liechtenstein</div> -->
 <!-- <div><strong>Maximilian Dreyer</strong>, Fraunhofer Heinrich Hertz Institute</div> -->
@@ -535,7 +535,7 @@ To be announced.
 <div><strong>Lia Morra</strong>, Politecnico di Torino</div>
 <!-- <div><strong>Valentina Ghidini</strong>, Duferco</div> -->
 <div><strong>Giulia Vilone</strong>, Analog Devices</div>
-.. (to be updated)
+<div><strong>Kriti Goyal</strong>, Apple</div>
 </div>
 
 # Contact
