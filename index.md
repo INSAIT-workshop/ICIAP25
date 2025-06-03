@@ -33,7 +33,7 @@ article_header:
 
 <script>
   // AoE (UTC-12) for June 7, 2025, 23:59:59
-  const countdownDate = new Date(Date.UTC(2025, 5, 8, 11, 59, 59)).getTime(); 
+  const countdownDate = new Date(Date.UTC(2025, 5, 15, 11, 59, 59)).getTime(); 
   const countdownInterval = setInterval(function () {
   const now = new Date().getTime();
   const distance = countdownDate - now;
