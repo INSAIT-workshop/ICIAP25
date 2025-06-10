@@ -16,7 +16,7 @@ article_header:
   theme: dark
   align: left
   actions:
-    - text: "September 15 or 16 (to be announced), 2025 | Rome, Italy"
+    - text: "September 16th, 2025 | Rome, Italy"
     #  class: "text"
     # - text: "Submit your paper"
     #   link: "https://openreview.net/group?id=ICIAP/2025/Workshop/INSAIT"
