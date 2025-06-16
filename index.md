@@ -32,8 +32,8 @@ article_header:
 </div>
 
 <script>
-  // AoE (UTC-12) for June 7, 2025, 23:59:59
-  const countdownDate = new Date(Date.UTC(2025, 5, 15, 11, 59, 59)).getTime(); 
+  // AoE (UTC-12) for June 22, 2025, 23:59:59
+  const countdownDate = new Date(Date.UTC(2025, 5, 23, 11, 59, 59)).getTime(); 
   const countdownInterval = setInterval(function () {
   const now = new Date().getTime();
   const distance = countdownDate - now;
@@ -390,9 +390,9 @@ Please submit your papers in PDF format through <a href="https://openreview.net/
 
 ## Important Dates
 
-<strong>Submission deadline</strong> - June 14, 2025 \
-<strong>Author notification</strong> - July 08, 2025 \
-<strong>Camera ready deadline</strong> -  July 17, 2025 
+<strong>Submission deadline</strong> - <s>June 07, 2025</s> June 22, 2025 \
+<strong>Author notification</strong> - July 01, 2025 \
+<strong>Camera ready deadline</strong> -  July 08, 2025 
 
 Note: all deadlines are in <b>Anywhere on Earth (AoE)</b>.
 
