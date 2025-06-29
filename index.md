@@ -398,7 +398,7 @@ Note: all deadlines are in <b>Anywhere on Earth (AoE)</b>.
 
 ## Workshop Event
 
-<b>When:</b> September 16th, 2025 \
+<b>When:</b> September 16th (morning), 2025 \
 <b>Where:</b> Sapienza University of Rome, Piazzale Aldo Moro 5, 00185 Rome
 
 ## Registration
