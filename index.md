@@ -399,7 +399,7 @@ Note: all deadlines are in <b>Anywhere on Earth (AoE)</b>.
 ## Workshop Event
 
 <b>When:</b> September 16th (morning), 2025 \
-<b>Where:</b> Sapienza University of Rome, Piazzale Aldo Moro 5, 00185 Rome
+<b>Where:</b> Building D, SSAS 102 - Department of Computer Science, Sapienza University, Viale Regina Elena 295, 00185 Rome
 
 ## Registration
 
