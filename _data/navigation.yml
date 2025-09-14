@@ -90,13 +90,13 @@ header:
     
   - titles:
       # @start locale config
-      en      : &EN       Schedule
+      en      : &EN       Program
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
       # @end locale config
-    url: /index.html#schedule
+    url: /index.html#program
 
   - titles:
       # @start locale config

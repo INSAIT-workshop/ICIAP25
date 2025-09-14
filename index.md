@@ -405,9 +405,50 @@ Note: all deadlines are in <b>Anywhere on Earth (AoE)</b>.
 
 For detailed instructions and information on registration fees, please visit the <a href="https://sites.google.com/view/iciap25/registration">ICIAP registration page</a>.
 
-## Schedule
+## Program
 
-To be announced.
+<table style="width:100%; border-collapse:collapse;">
+  <thead>
+    <tr style="background-color:#f5f5f5;">
+      <th style="padding:8px; text-align:left;">Time</th>
+      <th style="padding:8px; text-align:left;">Session</th>
+      <th style="padding:8px; text-align:left;">Title</th>
+      <th style="padding:8px; text-align:left;">Speakers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:8px;">09:00 – 09:05</td>
+      <td style="padding:8px;">Openings</td>
+      <td style="padding:8px;">Welcome to INSAIT @ ICIAP 2025, Rome</td>
+      <td style="padding:8px;">Riccardo Renzulli</td>
+    </tr>
+    <tr>
+      <td style="padding:8px;">09:05 – 09:40</td>
+      <td style="padding:8px;">Keynote</td>
+      <td style="padding:8px;"></td>
+      <td style="padding:8px;">Stephan Alaniz</td>
+    </tr>
+    <tr>
+      <td style="padding:8px;">09:40 – 10:00</td>
+      <td style="padding:8px;">Oral 1</td>
+      <td style="padding:8px;">SUB: Benchmarking CBM Generalization via Synthetic Attribute Substitutions</td>
+      <td style="padding:8px;">Jessica Bader, Leander Girrbach, Stephan Alaniz, Zeynep Akata</td>
+    </tr>
+    <tr>
+      <td style="padding:8px;">10:00 – 10:20</td>
+      <td style="padding:8px;">Oral 2</td>
+      <td style="padding:8px;">DeepFRI Demystified: Interpretability vs. Accuracy in AI Protein Function Prediction</td>
+      <td style="padding:8px;">Ananya Krishna, Valentina Simon, Arjan Kohli</td>
+    </tr>
+    <tr>
+      <td style="padding:8px;">10:20 – 10:40</td>
+      <td style="padding:8px;">Oral 3</td>
+      <td style="padding:8px;">Quantitative Evaluation of XAI Methods for Image Segmentation in Autonomous Driving</td>
+      <td style="padding:8px;">Sibylle D. Sager-Müller</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Speakers
 
