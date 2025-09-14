@@ -426,7 +426,7 @@ For detailed instructions and information on registration fees, please visit the
     <tr>
       <td style="padding:8px;">09:05 – 09:40</td>
       <td style="padding:8px;">Keynote</td>
-      <td style="padding:8px;"></td>
+      <td style="padding:8px;">Explainability in the Era of Multimodal Large Language Models</td>
       <td style="padding:8px;">Stephan Alaniz</td>
     </tr>
     <tr>
